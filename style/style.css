@@ -411,7 +411,7 @@ ul a{
     font-weight: 500;
     color: #FFFFFF;
     background-color: #FF900E;
-    border: none;
+    border: 1px solid #FF900E;
     padding: 15px 20px;
     border-radius: 8px;
 }
@@ -421,7 +421,7 @@ ul a{
     font-weight: 500;
     color: #FF900E;
     background-color: #FFFFFF;
-    border: 2px solid #FF900E;
+    border: 1px solid #FF900E;
     padding: 15px 20px;
     border-radius: 8px;
 }
